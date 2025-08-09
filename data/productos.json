@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "nombre": "Perfume de Ross",
+    "categoria": "perfumes",
+    "descripcion": "Nuestro \npanty levantacola elaborado en microfibra licrada cuenta con 5 colores entre esos Blanco, Negro, Azul oscuro, Cocoa, Rosado y vinotinto, doble realce en los gluteos y una faja de compresión (media baja) no tiene varillas ni encaje ni silicona. \nTallas: SM (pantalones desde la talla 4 hasta la talla 8) LXL (pantalones desde la talla 10 hasta la talla 14).",
+    "precio": 59900,
+    "imagenes": ["/img/Imagen11.jpg", "img/Imagen11.jpg","img/Imagen11.jpg","img/Imagen11.jpg"]
+  },
+  {
+  "id": 15,
+  "nombre": "Perfume Elegante",
+  "precio": 50000,
+  "descripcion": "Perfume de lujo",
+  "categoria": "perfumes",
+  "imagenes": ["perfume1.jpg"],
+  "link": "https://ejemplo.com/perfume-elegante"
+},
+  {
+    "id": 5,
+    "nombre": "Perfume de Rosas",
+    "categoria": "perfumes",
+    "descripcion": "Fragancia floral con notas de rosas frescas y un toque de vainilla. Duración de 8 horas.",
+    "precio": 59900,
+    "imagenes": ["/img/Imagen11.jpg", "img/Imagen11.jpg"]
+  },
+  {
+    "id": 2,
+    "nombre": "Collar de Perlas",
+    "categoria": "accesorios",
+    "descripcion": "Collar elegante con perlas cultivadas genuinas. Longitud ajustable de 40-45 cm.",
+    "precio": 89900,
+    "imagenes": ["collar-perlas-1.jpg", "collar-perlas-2.jpg"]
+  },
+  {
+    "id": 3,
+    "nombre": "Set de Velas Aromáticas",
+    "categoria": "hogar",
+    "descripcion": "Set de 3 velas con aromas a vainilla, lavanda y cítricos. Quemado limpio por 40 horas.",
+    "precio": 34900,
+    "imagenes": ["velas-1.jpg", "velas-2.jpg"]
+  },
+  {
+    "id": 4,
+    "nombre": "Auriculares Inalámbricos",
+    "categoria": "tecnologia",
+    "descripcion": "Auriculares Bluetooth con cancelación de ruido y 20 horas de duración de batería.",
+    "precio": 159900,
+    "imagenes": ["auriculares-1.jpg", "auriculares-2.jpg"]
+  },
+  {
+    "id": 1,
+    "nombre": "Perfume de Ross",
+    "categoria": "perfumes",
+    "descripcion": "Fragancia floral con notas de rosas frescas y un toque de vainilla. Duración de 8 horas.",
+    "precio": 59900,
+    "imagenes": ["/img/Imagen11.jpg", "img/Imagen11.jpg"]
+  },
+  {
+    "id": 5,
+    "nombre": "Perfume de Rosas",
+    "categoria": "perfumes",
+    "descripcion": "Fragancia floral con notas de rosas frescas y un toque de vainilla. Duración de 8 horas.",
+    "precio": 59900,
+    "imagenes": ["/img/Imagen11.jpg", "img/Imagen11.jpg"]
+  },
+  {
+    "id": 2,
+    "nombre": "Collar de Perlas",
+    "categoria": "accesorios",
+    "descripcion": "Collar elegante con perlas cultivadas genuinas. Longitud ajustable de 40-45 cm.",
+    "precio": 89900,
+    "imagenes": ["collar-perlas-1.jpg", "collar-perlas-2.jpg"]
+  },
+  {
+    "id": 3,
+    "nombre": "Set de Velas Aromáticas",
+    "categoria": "hogar",
+    "descripcion": "Set de 3 velas con aromas a vainilla, lavanda y cítricos. Quemado limpio por 40 horas.",
+    "precio": 34900,
+    "imagenes": ["velas-1.jpg", "velas-2.jpg"]
+  },
+  {
+    "id": 4,
+    "nombre": "Auriculares Inalámbricos",
+    "categoria": "tecnologia",
+    "descripcion": "Auriculares Bluetooth con cancelación de ruido y 20 horas de duración de batería.",
+    "precio": 159900,
+    "imagenes": ["auriculares-1.jpg", "auriculares-2.jpg"]
+  }
+]
