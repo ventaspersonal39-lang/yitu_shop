@@ -586,7 +586,12 @@ footer p {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-
+.logo {
+  width: 80px;        /* Ajusta el tamaño según necesites */
+  height: 80px;       /* Igual que el ancho para mantener el círculo */
+  border-radius: 50%; /* Esto la hace redonda */
+  object-fit: cover;  /* Recorta la imagen para que llene el círculo */
+}
  
 
 
@@ -679,11 +684,7 @@ body {
 @media (max-width: 768px) {
 
   /* Logo */
-  .logo {
-    height: 40px;
-    margin-right: 10px;
-    vertical-align: middle;
-  }
+ 
 
   /* Navegación */
   nav ul.menu {
