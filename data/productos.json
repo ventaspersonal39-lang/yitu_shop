@@ -79,13 +79,5 @@
     "descripcion": "Set de 3 velas con aromas a vainilla, lavanda y cítricos. Quemado limpio por 40 horas.",
     "precio": 34900,
     "imagenes": ["velas-1.jpg", "velas-2.jpg"]
-  },
-  {
-    "id": 4,
-    "nombre": "Auriculares Inalámbricos",
-    "categoria": "tecnologia",
-    "descripcion": "Auriculares Bluetooth con cancelación de ruido y 20 horas de duración de batería.",
-    "precio": 159900,
-    "imagenes": ["auriculares-1.jpg", "auriculares-2.jpg"]
   }
 ]
